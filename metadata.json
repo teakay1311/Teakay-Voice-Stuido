@@ -1,0 +1,7 @@
+{
+  "name": "VocalEase - AI Voice Studio",
+  "description": "Ứng dụng tạo giọng nói AI tiên tiến hỗ trợ tiếng Việt, tiếng Anh và đa dạng cảm xúc. Tích hợp tính năng sao chép giọng nói và quản lý lịch sử thông minh.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

@@ -1,0 +1,18 @@
+
+{
+  "name": "VocalEase AI Voice Studio",
+  "short_name": "VocalEase",
+  "description": "Professional AI Voice Generator & Studio",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3293/3293810.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
